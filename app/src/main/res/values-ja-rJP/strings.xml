@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InformationFormApp</string>
+    <string name="text_Info">インフォーメーションフォーム</string>
+    <string name="hint_Name">名前を入力して下さい。</string>
+    <string name="hint_Email">メールを入力して下さい。</string>
+    <string name="hint_Number">電話番号を入力して下さい。</string>
+    <string name="text_confirm">確認</string>
+    <string name="text_Welcome">ようこそ</string>
+    <string name="text_Email">メール</string>
+    <string name="text_Number">電話番号</string>
+</resources>

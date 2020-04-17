@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InformationFormApp</string>
+
+    <string name="text_Info">Information Form</string>
+    <string name="hint_Name">Input Name</string>
+    <string name="hint_Email">Input Email</string>
+    <string name="hint_Number">Input Phone Number</string>
+    <string name="text_confirm">Confirm</string>
+    <string name="text_Welcome">Hello</string>
+    <string name="text_Email">Email</string>
+    <string name="text_Number">Phone Number</string>
+
+</resources>
